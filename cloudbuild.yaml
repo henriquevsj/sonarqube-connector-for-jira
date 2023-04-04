@@ -1,0 +1,8 @@
+steps:
+  - name: "gcr.io/cloud-builders/docker"
+    args:
+      - "build"
+      - "-t"
+      - "gcr.io/hu-cloud-189316/$REPO_NAME:$TAG_NAME"
+      - "."
+images: ["gcr.io/hu-cloud-189316/$REPO_NAME:$TAG_NAME"]

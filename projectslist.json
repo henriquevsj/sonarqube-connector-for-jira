@@ -1,0 +1,26 @@
+[{
+    "ProjectName":"Moneybin-android", 
+    "SonarProject":"hurbcom_moneybin-android_AYWX1XPg3FiUzP7NHPgU", 
+    "JiraProject":"MOB"
+},
+{
+    "ProjectName":"OTA", 
+    "SonarProject":"hurbcom_ota_AYWX8j1v3FiUzP7NHPgq", 
+    "JiraProject":"HT"
+},
+{
+    "ProjectName":"GraphQL-gateway", 
+    "SonarProject":"hurbcom_graphql-gateway_AYY3oYtu3FiUzP7NHPnP", 
+    "JiraProject":"DIS"
+},
+{
+    "ProjectName":"Package-site", 
+    "SonarProject":"hurbcom_package-site_AYbrnP_zCR8c_FK37s4M", 
+    "JiraProject":"PKG"
+},
+{
+    "ProjectName":"Afiliados-clubehu", 
+    "SonarProject":"hurbcom_afiliados-clubehu_AYa9Fp8MCR8c_FK37srF", 
+    "JiraProject":"CH"
+}]
+
