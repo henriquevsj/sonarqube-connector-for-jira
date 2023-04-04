@@ -1,0 +1,1 @@
+# sonarqube-connector-for-jira-
