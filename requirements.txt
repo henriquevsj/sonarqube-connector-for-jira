@@ -1,2 +1,3 @@
 jira==3.4.1
 python-sonarqube-api==1.3.5
+

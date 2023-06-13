@@ -82,3 +82,4 @@ def creat_issue_jira(issues_in_sonar, hotspots_in_sonar, issues_in_jira, sonar_p
 
 if __name__ == "__main__":
     projects_list()
+
